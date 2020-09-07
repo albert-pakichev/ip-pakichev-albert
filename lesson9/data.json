@@ -1,0 +1,7 @@
+{
+    "firstName":"Иван",
+    "lastName":"Иванов",
+    "address":  {
+        "streetAddress":"Московское ш., 101, кв.101",
+    }
+}
